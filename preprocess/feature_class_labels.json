@@ -1,0 +1,17 @@
+[
+  "B-AGMT_DATE",
+  "B-DOC_NAME",
+  "B-DURATION",
+  "B-EFF_DATE",
+  "B-EXP_DATE",
+  "B-GOV_LAW",
+  "B-PARTY",
+  "I-AGMT_DATE",
+  "I-DOC_NAME",
+  "I-DURATION",
+  "I-EFF_DATE",
+  "I-EXP_DATE",
+  "I-GOV_LAW",
+  "I-PARTY",
+  "O"
+]
